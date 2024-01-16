@@ -1,7 +1,7 @@
 # docs
 `tr`
 
-**docs**
+*docs*
 ```
 qqqq
  ss
