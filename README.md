@@ -9,6 +9,7 @@
 @@ text in purple (and bold)@@
 ```
 
+$${\color{red}my}$$
 
 ```diff
 ! *111*
