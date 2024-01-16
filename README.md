@@ -1,7 +1,7 @@
 # docs
 `tr`
 
-<span style="color:yellow">*docs*</span>
+<span style="color:blue">*docs*</span>
 ```
 qqqq
  ss
