@@ -1,7 +1,14 @@
 # docs
 `tr`
 
-![#c5f015]*docs*`#c5f015`
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 ```
 qqqq
  ss
